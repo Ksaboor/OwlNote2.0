@@ -5,18 +5,19 @@ reflection and goal setting.
 
 # Motivation
 I was not satifed with my first attempt because 
-with building this application my app. 
-I was also using a Client Framework that I did not
-want to use and did not understand. 
+with building this application my app and I wanted to 
+
 
 # Tech/Framework
 * Java 8
-* SpringBoot
-* PostgreSQL
-* Vue.js
+* SpringBoot 2.1.0
+* PostgreSQL 11
+* Vue.js CLI 3.0
 
 # Tests
 I see myself using Mockito to test my controllers and
 repositories package. 
 
-# Contributors
+# How to run
+    mvn spring-boot:run
+    
